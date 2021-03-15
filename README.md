@@ -1,1 +1,1 @@
-These are my python projects i made throughout the year using different types of modulas.
+this is a weather gui using Tkinter that can tells you the weather:)
